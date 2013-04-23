@@ -38,7 +38,6 @@ module.exports = class Cordova extends Exec
 
     appNamePrompt = (callback) =>
       commander.prompt 'App name (optional): ', (name) =>
-        name = name.titleize()
         args.push name if name isnt ''
         callback()
 
