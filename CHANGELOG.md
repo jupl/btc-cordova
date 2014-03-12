@@ -1,5 +1,8 @@
 # Changelog
 
+#### WIP
+- Update Bower
+
 #### 0.10.4 (March 9, 2014)
 - Update BrowserSync
 - Update Bluebird
