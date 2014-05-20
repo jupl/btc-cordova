@@ -6,7 +6,7 @@ var bower = require('./lib').npmBin('bower');
 namespace('bower', function() {
   desc('Download and install Bower components');
   task('install', function() {
-    return bower.execute('install', '--allow-root');
+    return bower.execute('install', '--config.interactive=false', '--allow-root');
   });
 
   desc('Clear Bower components');

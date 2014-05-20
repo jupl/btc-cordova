@@ -51,8 +51,8 @@ One-line commands are provided for convenience as well for those that want to st
 ## Libraries
 
 ### Core
-- [BTC](https://github.com/jupl/btc) 0.10.4
-- [Cordova](http://cordova.apache.org) 3.4
+- [BTC](https://github.com/jupl/btc) 0.11.0
+- [Cordova](http://cordova.apache.org) 3.4.1
 
 ### Utilities
 - [FastClick](https://github.com/ftlabs/fastclick)

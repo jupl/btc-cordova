@@ -29,7 +29,7 @@ namespace('add', function() {
   desc('Add Hammer.js (touch library)');
   task('hammer', function() {
     editBower(function() {
-      this.dependencies.hammerjs = '~1.0.6';
+      this.dependencies.hammerjs = '~1.1.2';
     });
   });
 
