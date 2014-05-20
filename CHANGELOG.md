@@ -3,6 +3,7 @@
 #### WIP
 - Update Bower
 - By default do not use any wrappers
+- Add Groundskeeper
 
 #### 0.10.4 (March 9, 2014)
 - Update BrowserSync
