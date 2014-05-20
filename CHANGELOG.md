@@ -2,6 +2,8 @@
 
 #### WIP
 - Update Bower
+- Update Bluebird
+- Update Express
 - By default do not use any wrappers
 - Add Groundskeeper
 
