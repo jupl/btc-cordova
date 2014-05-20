@@ -1,6 +1,6 @@
 # Changelog
 
-### WIP
+### 0.11.0 (May 19, 2014)
 - Update Bower
 - Update Bluebird
 - Update Express
