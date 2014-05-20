@@ -10,9 +10,19 @@ exports.config = {
     port: 3333
   },
 
+  modules: {
+    definition: false,
+    wrapper: false
+  },
+
   plugins: {
     autoreload: {
       enabled: process.env.browsersync !== 'true'
+    },
+    groundskeeper: {
+      console: false,
+      debugger: false,
+      pragmas: ['validation', 'development']
     }
   },
 

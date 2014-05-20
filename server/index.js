@@ -1,5 +1,6 @@
 'use strict';
 
+var compress = require('compression');
 var express = require('express');
 var http = require('http');
 var path = require('path');
@@ -10,7 +11,7 @@ exports.startServer = function(port, publicPath, callback) {
   var indexPath = path.join(publicPath, 'index.html');
 
   // Add middleware
-  app.use(express.compress());
+  app.use(compress());
   app.use(express.static(publicPath));
 
   // Set other paths to index.html for HTML5 push state apps

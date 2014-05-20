@@ -1,5 +1,14 @@
 # Changelog
 
+### 0.11.1 (May 19, 2014)
+- Update Cordova
+- Update BTC
+  - Update Bower
+  - Update Bluebird
+  - Update Express
+  - By default do not use any wrappers
+  - Add Groundskeeper
+
 #### 0.10.4 (March 9, 2014)
 - Fix bug with running Cordova tasks on existing project
 - Update BTC
