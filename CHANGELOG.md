@@ -1,6 +1,6 @@
 # Changelog
 
-### WIP
+### 0.11.1 (May 19, 2014)
 - Update Cordova
 - Update BTC
   - Update Bower
