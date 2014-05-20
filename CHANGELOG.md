@@ -1,5 +1,13 @@
 # Changelog
 
+### 0.11.0 (May 19, 2014)
+- Update Bower
+- Update Bluebird
+- Update Express
+- By default do not use any wrappers
+- Add Groundskeeper
+- Merge app.js and vendor.js
+
 #### 0.10.4 (March 9, 2014)
 - Update BrowserSync
 - Update Bluebird
