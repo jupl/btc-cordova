@@ -29,7 +29,8 @@ exports.config = {
   files: {
     javascripts: {
       joinTo: {
-        'scripts/app.js': /^(app|vendor|bower_components)/
+        'scripts/app.js': /^app/,
+        'scripts/vendor.js': /^(vendor|bower_components)/
       }
     },
 

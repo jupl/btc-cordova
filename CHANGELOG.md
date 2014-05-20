@@ -1,5 +1,8 @@
 # Changelog
 
+#### WIP
+- Undo merge of app.js and vendor.js
+
 ### 0.11.0 (May 19, 2014)
 - Update Bower
 - Update Bluebird
