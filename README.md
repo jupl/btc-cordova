@@ -1,4 +1,6 @@
 # [BTC Cordova](http://jupl.github.io/btc/cordova/) 0.11.1
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/jupl/btc-cordova.svg)](https://greenkeeper.io/)
 [![Dependency Status](https://gemnasium.com/jupl/btc-cordova.png)](https://gemnasium.com/jupl/btc-cordova)
 
 This is the base skeleton with Cordova for the following derived project templates:
